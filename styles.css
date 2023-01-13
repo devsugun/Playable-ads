@@ -1,0 +1,15 @@
+body {
+  position: relative;
+  width: 1080px;
+  height: 1920px;
+
+  background: linear-gradient(196.94deg, #18064B -1.95%, #185281 98.05%), #FFFFFF;
+  border-radius: 94.5813px;
+}
+
+.background-layer svg * {
+  transition: fill 1s ease;
+}
+.wrap-layer{
+  position: relative;
+}
